@@ -4,9 +4,10 @@
 
 Random thoughts in no particular order...
 
-FAIL = I'm useless trying to build anything from scratch. "How would you ______?" No.
-WIN = I can figure things out. I can tell what I'm looking at. "What is _____ doing? Yes.
-Win = I can Google through the earth's crust to China. I can find anything.
++ FAIL = I'm useless trying to build anything from scratch. "How would you ______?" No.
+
++ WIN = I can figure things out. I can tell what I'm looking at. "What is _____ doing? Yes.
++ Win = I can Google through the earth's crust to China. I can find anything.
 
 THUS. This code is all torn out of other places on the Interwebs. Then heavily manipulated.
 
