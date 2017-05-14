@@ -86,15 +86,15 @@ $(document).scroll(function() {
 
 //looping through portfolio images
 var image = [
-'img/graveyard.jpeg',
-'img/thetruth.jpg',
-'img/restart.jpeg',
-'img/random.jpeg',
-'img/paparazzi.jpg',
-'img/portfolio-1.jpg',
-'img/portfolio-2.jpg',
-'img/portfolio-3.jpg',
-'img/portfolio-4.jpg',
+'url(./img/graveyard.jpeg)',
+'url(./img/thetruth.jpg)',
+'url(./img/restart.jpeg)',
+'url(./img/random.jpeg)',
+'url(./img/paparazzi.jpg)',
+'url(./img/portfolio-1.jpg)',
+'url(./img/portfolio-2.jpg)',
+'url(./img/portfolio-3.jpg)',
+'url(./img/portfolio-4.jpg)'
 ]
 /*
 var image = new Array();
