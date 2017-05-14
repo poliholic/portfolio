@@ -86,15 +86,15 @@ $(document).scroll(function() {
 
 //looping through portfolio images
 var image = [
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/graveyard.jpeg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/thetruth.jpg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/restart.jpeg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/random.jpeg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/paparazzi.jpg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/portfolio-1.jpg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/portfolio-2.jpg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/portfolio-3.jpg',
-'file:///C:/Users/Ryan/Dropbox/Scrivener/portfolio/img/portfolio-4.jpg',
+'../img/graveyard.jpeg',
+'../img/thetruth.jpg',
+'../img/restart.jpeg',
+'../img/random.jpeg',
+'../img/paparazzi.jpg',
+'../portfolio-1.jpg',
+'../portfolio-2.jpg',
+'../img/portfolio-3.jpg',
+'../img/portfolio-4.jpg'
 ]
 /*
 var image = new Array();
