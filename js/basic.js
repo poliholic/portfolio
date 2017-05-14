@@ -91,10 +91,10 @@ var image = [
 '../img/restart.jpeg',
 '../img/random.jpeg',
 '../img/paparazzi.jpg',
-'../portfolio-1.jpg',
-'../portfolio-2.jpg',
+'../img/portfolio-1.jpg',
+'../img/portfolio-2.jpg',
 '../img/portfolio-3.jpg',
-'../img/portfolio-4.jpg'
+'../img/portfolio-4.jpg',
 ]
 /*
 var image = new Array();
